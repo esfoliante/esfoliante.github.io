@@ -9,9 +9,9 @@ I've also done it because I wanted to try and build a simple website with Flutte
 
 ### Want to get in touch? 👀
 
-Telegram: t.me/esfoliante
-Discord: toast pusheen#9929
-E-mail: miguel.personal@protonmail.com
+Telegram: t.me/esfoliante |
+Discord: toast pusheen#9929 |
+E-mail: miguel.personal@protonmail.com 
 
 
 ##### Have fun coding! 💙
